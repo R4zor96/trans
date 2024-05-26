@@ -10,6 +10,6 @@ public class Cuadradro implements Figura,Dibujable{
         return resultado;
     }
     public void dibujar(){
-        System.out.println("Estoy dibujando un cuadrado");
+        System.out.println("Estoy dibujando un cuadradooo");
     }
 }
